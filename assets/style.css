@@ -1,0 +1,44 @@
+body {
+	background: url(../assets/images/bg.jpg) no-repeat center fixed;
+	-webkit-background-size: cover; /*targets google chrome and safari web browsers*/
+	-moz-background-size: cover; /*mozilla*/
+	-o-background-size: cover; /*opera*/
+	background-size: cover;
+	font-family: 'Audiowide', cursive;
+	
+}
+
+h1	{
+	 color: black;
+	 font-size: 30px;
+	 font-weight: normal;
+	 margin-bottom: 0;
+	 font-family: 'Press Start 2P', cursive;
+}
+
+h2	{
+	 color: blue;
+	 font-size: 18px;
+	 margin-top: 0;
+	 font-family: 'Audiowide', cursive;
+}
+
+.bio {
+	color: black;
+	font-size: 14px;
+}
+
+.about {
+	 width: 500px;
+	 margin-left: auto;
+	 margin-right: auto;
+	 text-align: center;
+}
+
+.me {
+	height: 200px;
+	border-radius: 100px;
+	border-style: solid;
+	border-color: blue;
+	margin-top: 150px;
+}
